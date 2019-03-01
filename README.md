@@ -1,2 +1,1 @@
-# kubernetes
-Kubernetes installation on bare metal 
+# Distributed System
